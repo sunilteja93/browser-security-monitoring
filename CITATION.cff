@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated IEEE Access paper."
+title: "BSM: Browser Security Monitoring"
+type: software
+
+authors:
+  - family-names: "Vadlamani"
+    given-names: "Sunil Kumar"
+    orcid: "https://orcid.org/0009-0002-2993-7748"
+  - family-names: "Balaga"
+    given-names: "Ajit"
+  - family-names: "Pavithrapu"
+    given-names: "Sridhar"
+
+url: "https://github.com/BSM-Labs/browser-security-monitoring"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Vadlamani"
+      given-names: "Sunil Kumar"
+      orcid: "https://orcid.org/0009-0002-2993-7748"
+    - family-names: "Balaga"
+      given-names: "Ajit"
+    - family-names: "Pavithrapu"
+      given-names: "Sridhar"
+  title: "BSM: A Browser-Resident Framework for Real-Time Detection of JavaScript API Abuse and Prompt Injection Attacks"
+  journal: "IEEE Access"
+  year: 2026
+  doi: "10.1109/ACCESS.2026.3712744"
